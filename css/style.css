@@ -19,11 +19,11 @@ body {
 
 /* Write all remaining styles here */
 
-h1, h2, footer{
+h2, footer{
   color: rgb(151, 173, 167);
 }
 
-header{
+h1{
   font-size: 2.5em;
   font-family: "baskerville", serif; 
   border-bottom-style: solid;
