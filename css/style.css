@@ -41,6 +41,12 @@ p{
   border-width: 5px;
 }
 
+.images a{
+  border-style: solid;
+  border-color: rgb(151, 173, 167);
+  border-width: 5px;
+}
+
 
 
 
