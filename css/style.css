@@ -27,6 +27,6 @@ header{
   font-size: 250%;
   font-weight: bold;
   margin: 10px;
-  border-bottom-style: 1px solid;
+  border-bottom-style: solid;
   border-bottom-color: rgb(204, 204, 204)
 }
