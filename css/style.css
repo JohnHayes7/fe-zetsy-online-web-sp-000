@@ -53,6 +53,10 @@ p{
   border-width: 5px;
 }
 
+.images img:hover{
+  border-color: rgb(151, 173, 167);
+}
+
 footer{
   font-size: 12px;
   color: #555;
