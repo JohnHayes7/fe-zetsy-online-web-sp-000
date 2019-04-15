@@ -25,6 +25,7 @@ h1, h2, footer{
 
 header{
   font-size: 5em;
+  font-weight: normal
   margin: 5px;
   border-bottom-style: solid;
   border-bottom-color: rgb(204, 204, 204);
