@@ -20,7 +20,7 @@ body {
 /* Write all remaining styles here */
 
 footer{
-  color: rgb(151, 173, 167);
+  
 }
 
 #title{
@@ -61,6 +61,7 @@ footer{
   color: #555;
   text-align: right;
   margin: 0 0 20px 0;
+  color: rgb(151, 173, 167);
   margin-block-start: 1em;
   margin-block-end: 1em;
   margin-inline-start: 0px;
